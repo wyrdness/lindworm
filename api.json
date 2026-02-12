@@ -1,0 +1,51 @@
+{
+  "id": "lindworm",
+  "name": "Lindworm",
+  "category": "European Dragon",
+  "type": "Legendary Creature",
+  "version": "1.0.0",
+  "last_updated": "2026-01-14",
+  "locations": [
+    {
+      "name": "Scandinavia",
+      "region": "Northern Europe",
+      "country": "Multiple (Sweden, Norway, Denmark, Germany)",
+      "coordinates": null
+    }
+  ],
+  "origin": {
+    "culture": "Scandinavian/Germanic",
+    "period": "Medieval to Modern",
+    "source": "Norse/Germanic Mythology and Folklore"
+  },
+  "description": {
+    "short": "Serpentine, wingless dragon from Scandinavian and Germanic folklore, typically depicted as fierce but flightless.",
+    "long": "The lindworm (also lindwurm, lindorm) is a type of dragon found in Scandinavian and Germanic folklore. Unlike the winged dragons of Western European tradition, the lindworm is typically depicted as a large, serpentine creature with either no legs or two front legs, lacking wings entirely. The name derives from Old Norse 'linnormr' (linn meaning 'snake' or 'serpent' and ormr meaning 'dragon' or 'serpent'). In folklore, lindworms were considered dangerous creatures that hoarded treasure, terrorized villages, and required heroes to defeat them. They appear in numerous Scandinavian legends and fairy tales, including the famous 'Prince Lindworm' tale. The creature represents an earth-bound, more serpentine version of the dragon archetype, emphasizing connection to the ground and water rather than the sky."
+  },
+  "characteristics": [
+    "Serpentine, snake-like body",
+    "Wingless (cannot fly)",
+    "Two front legs or no legs",
+    "Large and dangerous",
+    "Hoards treasure",
+    "Venomous or fire-breathing (varies)",
+    "Associated with water and earth",
+    "Scandinavian/Germanic origins"
+  ],
+  "status": {
+    "confirmed": false,
+    "explanation": "Legendary creature from Scandinavian and Germanic folklore and mythology, no evidence of actual existence",
+    "evidence_level": "Mythological"
+  },
+  "cultural_impact": {
+    "significance": "Important figure in Norse and Germanic mythology and folklore, variant of dragon archetype",
+    "modern_usage": "Appears in fantasy literature, games, and Scandinavian cultural heritage",
+    "folklore_type": "Traditional Mythology"
+  },
+  "see_also": [
+    "dragon",
+    "norse-mythology",
+    "wyrm",
+    "serpent"
+  ]
+}
