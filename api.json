@@ -1,51 +1,125 @@
 {
-  "id": "lindworm",
-  "name": "Lindworm",
-  "category": "European Dragon",
-  "type": "Legendary Creature",
-  "version": "1.0.0",
-  "last_updated": "2026-01-14",
-  "locations": [
-    {
-      "name": "Scandinavia",
-      "region": "Northern Europe",
-      "country": "Multiple (Sweden, Norway, Denmark, Germany)",
-      "coordinates": null
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/lindworm",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
     }
-  ],
-  "origin": {
-    "culture": "Scandinavian/Germanic",
-    "period": "Medieval to Modern",
-    "source": "Norse/Germanic Mythology and Folklore"
   },
-  "description": {
-    "short": "Serpentine, wingless dragon from Scandinavian and Germanic folklore, typically depicted as fierce but flightless.",
-    "long": "The lindworm (also lindwurm, lindorm) is a type of dragon found in Scandinavian and Germanic folklore. Unlike the winged dragons of Western European tradition, the lindworm is typically depicted as a large, serpentine creature with either no legs or two front legs, lacking wings entirely. The name derives from Old Norse 'linnormr' (linn meaning 'snake' or 'serpent' and ormr meaning 'dragon' or 'serpent'). In folklore, lindworms were considered dangerous creatures that hoarded treasure, terrorized villages, and required heroes to defeat them. They appear in numerous Scandinavian legends and fairy tales, including the famous 'Prince Lindworm' tale. The creature represents an earth-bound, more serpentine version of the dragon archetype, emphasizing connection to the ground and water rather than the sky."
+  "phenomenon": {
+    "id": "lindworm",
+    "name": "Lindworm",
+    "aliases": [],
+    "category": "EUROPEAN_DRAGON",
+    "subcategory": "in Northern European mythology.",
+    "tags": [
+      "and-meaning"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "The **lindworm** (also lindwurm, lindorm) is a wingless, serpentine dragon from Scandinavian and Germanic folklore.",
+      "full": "The **lindworm** (also lindwurm, lindorm) is a wingless, serpentine dragon from Scandinavian and Germanic folklore. Unlike the flying dragons of Western European tradition, the lindworm is earth-bound and snake-like, representing a distinct variant of the dragon archetype in Northern European mythology."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
   },
-  "characteristics": [
-    "Serpentine, snake-like body",
-    "Wingless (cannot fly)",
-    "Two front legs or no legs",
-    "Large and dangerous",
-    "Hoards treasure",
-    "Venomous or fire-breathing (varies)",
-    "Associated with water and earth",
-    "Scandinavian/Germanic origins"
-  ],
-  "status": {
-    "confirmed": false,
-    "explanation": "Legendary creature from Scandinavian and Germanic folklore and mythology, no evidence of actual existence",
-    "evidence_level": "Mythological"
+  "classification": {
+    "taxonomy": {
+      "category": "EUROPEAN_DRAGON",
+      "type": "in Northern European mythology.",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
   },
-  "cultural_impact": {
-    "significance": "Important figure in Norse and Germanic mythology and folklore, variant of dragon archetype",
-    "modern_usage": "Appears in fantasy literature, games, and Scandinavian cultural heritage",
-    "folklore_type": "Traditional Mythology"
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
   },
-  "see_also": [
-    "dragon",
-    "norse-mythology",
-    "wyrm",
-    "serpent"
-  ]
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }
